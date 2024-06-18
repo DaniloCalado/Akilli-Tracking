@@ -13,12 +13,12 @@ Plataforma de monotoramento de informações d clientes do google e dasredes soc
 3- o Frontend possui a tela de login e partir do login od usuario ele vai busar a tabela no banco de dados certa com as informações relacionada ao cliente.
 
 Ao logar:
-  1- O Cliente visualiza as informações do mês atual com dominio descrição link para o site da noticia.
-  2- pode -se filtrar por tag ou por mês ( atualmente estamos colcoando só o ano atual)
-  3- Pode-se ver as informações em quadros do lado direito: 
-    3.1 - Quantidade de noticoas negativas positivas e neutras.
-    3.2 - Quantidade do tipo de noticia e da onde esta vindo as informoações e noticias
-    3.3 - Top 5 maiores dominios da informação do mès.
+  - O Cliente visualiza as informações do mês atual com dominio descrição link para o site da noticia.
+  - pode -se filtrar por tag ou por mês ( atualmente estamos colcoando só o ano atual)
+  - Pode-se ver as informações em quadros do lado direito: 
+    - Quantidade de noticoas negativas positivas e neutras.
+    - Quantidade do tipo de noticia e da onde esta vindo as informoações e noticias
+    - Top 5 maiores dominios da informação do mès.
 
 Funcionalidades:
 - Classificar a Notícia

@@ -6,7 +6,7 @@ Entre com as credenciais de teste :
 - login: Cliente_Teste
 - senha: teste123
 
-Plataforma de monotoramento de informações de clientes do google e das redes sociais. o Banco de dados esta nosupabase.
+Plataforma de monotoramento de informações de clientes doque pesquisa informações do google e das redes sociais. o Banco de dados esta nosupabase.
 
 -  É feito um crawler de uma pesquisa do cliente em toda a internet de forma diária.
 -  Essas informações vão para o bancod de dados

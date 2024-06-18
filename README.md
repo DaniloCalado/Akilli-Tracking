@@ -9,7 +9,7 @@ Entre com as credenciais de teste :
 Plataforma de monotoramento de informações de clientes doque pesquisa informações do google e das redes sociais. o Banco de dados esta nosupabase.
 
 -  É feito um crawler de uma pesquisa do cliente em toda a internet de forma diária.
--  Essas informações vão para o bancod de dados
+-  Essas informações vão para o banco de dados
 -  O Frontend possui a tela de login e partir do login od usuario ele vai busar a tabela no banco de dados certa com as informações relacionada ao cliente.
 
 Ao logar:

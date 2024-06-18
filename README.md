@@ -3,8 +3,8 @@
 https://monitoramento-frontend-production.up.railway.app/
 
 Entre com as credenciais de teste :
-- Cliente_Teste
-- teste123
+- login: Cliente_Teste
+- senha: teste123
 
 Plataforma de monotoramento de informações d eclientes do google e das redes sociais. o Banco de dados esta nosupabase.
 

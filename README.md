@@ -12,7 +12,7 @@ Plataforma de monotoramento de informações d clientes do google e dasredes soc
 2- Essas informações vão para o bancod de dados
 3- o Frontend possui a tela de login e partir do login od usuario ele vai busar a tabela no banco de dados certa com as informações relacionada ao cliente.
 
-Ao logar:n/
+Ao logar:n\
 1- o Cliente visualiza as informações do mês atual com dominio descrição link para o site da noticia.
 2- pode -se filtrar por tag ou por mês ( atualmente estamos colcoando só o ano atual)
 3- Pode-se ver as informações em quadros do lado direito: 

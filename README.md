@@ -1,6 +1,6 @@
 # Akilli-Tracking
 
-https://monitoramento-frontend-production.up.railway.app/
+https://akilli-tracking.up.railway.app/
 
 Entre com as credenciais de teste :
 - login: Cliente_Teste
